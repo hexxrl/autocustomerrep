@@ -1,5 +1,5 @@
 # autocustomerrep
-auto customer reply. customaizable makes ecom easier
+auto customer reply. customaizable makes ecom logins easier.
 
 $ python auto_response.py
 Hi there,
@@ -21,4 +21,4 @@ The Support Team
 
 ['login']
 
-As you can see, the first line of output is the auto response that was returned by the API. The second line of output is the list of categories that the message belongs to.
+first line api. second line output list/cat learn more in py section. 
