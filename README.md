@@ -1,8 +1,6 @@
 # autocustomerrep
 auto customer reply. customaizable makes ecom easier
 
-Sure, here is what it looks like when I run the code:
-
 $ python auto_response.py
 Hi there,
 
